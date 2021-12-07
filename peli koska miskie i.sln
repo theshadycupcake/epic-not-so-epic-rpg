@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "peli koska miskie i", "peli koska miskie i\peli koska miskie i.pyproj", "{6ECE75B3-D380-4CF7-83DA-F64F5F431D0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ECE75B3-D380-4CF7-83DA-F64F5F431D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ECE75B3-D380-4CF7-83DA-F64F5F431D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {661C590E-45C3-4BE4-83CD-0D5CE01ED324}
+	EndGlobalSection
+EndGlobal
